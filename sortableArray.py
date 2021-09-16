@@ -1,4 +1,4 @@
-
+#this function sorts a list of integers
 def integerSort(integerList):
     integerList.sort()
     return integerList
